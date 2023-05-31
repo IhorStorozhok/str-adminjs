@@ -2,7 +2,7 @@ import {
   Box, Button, Drawer,
   DrawerContent,
   DrawerFooter, H3, Icon,
-} from '@adminjs/design-system'
+} from '@storozhok/adminjs-design-system'
 import React, { MouseEvent, SyntheticEvent, useEffect, useRef, useState } from 'react'
 import { useLocation, useNavigate, useParams } from 'react-router-dom'
 import omit from 'lodash/omit.js'

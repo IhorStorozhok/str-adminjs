@@ -1,4 +1,4 @@
-import type { ModalProps } from '@adminjs/design-system'
+import type { ModalProps } from '@storozhok/adminjs-design-system'
 
 import { SHOW_MODAL, HIDE_MODAL } from '../store/index.js'
 

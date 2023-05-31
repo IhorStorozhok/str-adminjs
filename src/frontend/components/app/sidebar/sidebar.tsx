@@ -1,5 +1,5 @@
-import { Box, BoxProps, cssClass } from '@adminjs/design-system'
-import { styled } from '@adminjs/design-system/styled-components'
+import { Box, BoxProps, cssClass } from '@storozhok/adminjs-design-system'
+import { styled } from '@storozhok/adminjs-design-system/styled-components'
 import React from 'react'
 import { useSelector } from 'react-redux'
 

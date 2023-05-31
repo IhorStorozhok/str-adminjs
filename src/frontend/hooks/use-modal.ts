@@ -1,4 +1,4 @@
-import type { ModalProps } from '@adminjs/design-system'
+import type { ModalProps } from '@storozhok/adminjs-design-system'
 import { useCallback } from 'react'
 import { useDispatch } from 'react-redux'
 

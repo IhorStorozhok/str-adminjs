@@ -1,4 +1,4 @@
-import { Badge } from '@adminjs/design-system'
+import { Badge } from '@storozhok/adminjs-design-system'
 import React, { type FC } from 'react'
 
 import startCase from 'lodash/startCase.js'

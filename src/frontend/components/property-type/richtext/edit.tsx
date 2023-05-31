@@ -1,4 +1,4 @@
-import { FormGroup, FormMessage, RichTextEditor } from '@adminjs/design-system'
+import { FormGroup, FormMessage, RichTextEditor } from '@storozhok/adminjs-design-system'
 import React, { FC, memo, useCallback } from 'react'
 
 import { EditPropertyProps } from '../base-property-props.js'

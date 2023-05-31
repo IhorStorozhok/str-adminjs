@@ -1,4 +1,4 @@
-import { Box, Loader } from '@adminjs/design-system'
+import { Box, Loader } from '@storozhok/adminjs-design-system'
 import React, { FC } from 'react'
 
 export const AppLoader: FC = () => (

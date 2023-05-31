@@ -1,5 +1,5 @@
 import React, { FC } from 'react'
-import { ValueGroup } from '@adminjs/design-system'
+import { ValueGroup } from '@storozhok/adminjs-design-system'
 
 import { ShowPropertyProps } from '../base-property-props.js'
 import DefaultPropertyValue from '../default-type/default-property-value.js'

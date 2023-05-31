@@ -19,9 +19,9 @@ export const external = [
   'react-redux',
   'react-router',
   'react-router-dom',
-  '@adminjs/design-system/styled-components',
+  '@storozhok/adminjs-design-system/styled-components',
   'adminjs',
-  '@adminjs/design-system',
+  '@storozhok/adminjs-design-system',
   'react-feather',
 ]
 
@@ -29,14 +29,14 @@ export const globals = {
   react: 'React',
   redux: 'Redux',
   'react-feather': 'FeatherIcons',
-  '@adminjs/design-system/styled-components': 'styled',
+  '@storozhok/adminjs-design-system/styled-components': 'styled',
   'prop-types': 'PropTypes',
   'react-dom': 'ReactDOM',
   'react-redux': 'ReactRedux',
   'react-router': 'ReactRouter',
   'react-router-dom': 'ReactRouterDOM',
   adminjs: 'AdminJS',
-  '@adminjs/design-system': 'AdminJSDesignSystem',
+  '@storozhok/adminjs-design-system': 'AdminJSDesignSystem',
 }
 
 export const extensions = ['.mjs', '.cjs', '.js', '.jsx', '.json', '.ts', '.tsx', '.scss']

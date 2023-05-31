@@ -11,8 +11,8 @@ import {
   MadeWithLove,
   MessageBox,
   Text,
-} from '@adminjs/design-system'
-import { styled } from '@adminjs/design-system/styled-components'
+} from '@storozhok/adminjs-design-system'
+import { styled } from '@storozhok/adminjs-design-system/styled-components'
 
 import React from 'react'
 import { useSelector } from 'react-redux'

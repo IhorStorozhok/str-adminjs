@@ -42,7 +42,7 @@ like on the Show action. We can define **my-react-component.jsx** like this:
 
 ```jsx
 import React from 'react'
-import { InputGroup, Label } from '@adminjs/design-system'
+import { InputGroup, Label } from '@storozhok/adminjs-design-system'
 
 const MyReactComponent = props => {
   const { record, property } = props

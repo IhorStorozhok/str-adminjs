@@ -1,4 +1,4 @@
-import { Box } from '@adminjs/design-system'
+import { Box } from '@storozhok/adminjs-design-system'
 import { ReactComponentLike } from 'prop-types'
 import React, { useMemo } from 'react'
 

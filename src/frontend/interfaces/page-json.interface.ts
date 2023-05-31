@@ -1,4 +1,4 @@
-import type { IconProps } from '@adminjs/design-system'
+import type { IconProps } from '@storozhok/adminjs-design-system'
 
 /**
  * Representing the page in the sidebar

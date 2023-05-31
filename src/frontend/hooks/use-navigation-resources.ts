@@ -5,7 +5,7 @@ import type {
   NavigationElementProps,
   NavigationElementWithChildrenProps,
   NavigationProps,
-} from '@adminjs/design-system'
+} from '@storozhok/adminjs-design-system'
 import { useMemo } from 'react'
 
 import { useTranslation } from '../hooks/use-translation.js'

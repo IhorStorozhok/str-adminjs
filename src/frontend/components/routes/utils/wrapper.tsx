@@ -1,6 +1,6 @@
 import React, { ComponentType, PropsWithChildren } from 'react'
-import { Box, BoxProps, DrawerContent, DrawerFooter } from '@adminjs/design-system'
-import { styled } from '@adminjs/design-system/styled-components'
+import { Box, BoxProps, DrawerContent, DrawerFooter } from '@storozhok/adminjs-design-system'
+import { styled } from '@storozhok/adminjs-design-system/styled-components'
 
 import allowOverride from '../../../hoc/allow-override.js'
 

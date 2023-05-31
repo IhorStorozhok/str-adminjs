@@ -7,7 +7,7 @@ There are three main terms we use to define AdminJS libraries, which are:
 * Plugin - plugins are wrappers around popular frameworks which allow you to connect AdminJS to your Node.js server and build AdminJS-specific routes. For example `@adminjs/express`.
 * Adapter - adapters are wrappers around supported ORMs and ODMs. They export classes which extend `BaseDatabase`, `BaseResource` and `BaseProperty` components. Their task is to translate AdminJS specific filters/queries to something understandable by your ORM/ODM of choice in order to communicate with the database. For example `@adminjs/typeorm`.
 
-AdminJS also has got it's own design system library (`@adminjs/design-system`) and a set of premade `features` which you can import into your project (e. g. `@adminjs/passwords`).
+AdminJS also has got it's own design system library (`@storozhok/adminjs-design-system`) and a set of premade `features` which you can import into your project (e. g. `@adminjs/passwords`).
 
 ## Contributing
 
@@ -63,14 +63,14 @@ You should be able to see your local changes to `adminjs` package in your test a
 
 ### Advanced example
 
-The case described above is the easiest one. Now let's assume you want to make changes to `@adminjs/design-system` package. This will require you to chain `yarn link` commands:
+The case described above is the easiest one. Now let's assume you want to make changes to `@storozhok/adminjs-design-system` package. This will require you to chain `yarn link` commands:
 
 1. Fork and clone `adminjs-design-system` repository
 2. Install dependencies of `adminjs-design-system` and run `yarn dev`
-3. Register `@adminjs/design-system` under yarn's linked packages: `yarn link`
-4. Since `@adminjs/design-system` is a dependency of `adminjs`, open `adminjs` project locally and run:
+3. Register `@storozhok/adminjs-design-system` under yarn's linked packages: `yarn link`
+4. Since `@storozhok/adminjs-design-system` is a dependency of `adminjs`, open `adminjs` project locally and run:
 ```bash
-$ yarn link "@adminjs/design-system"
+$ yarn link "@storozhok/adminjs-design-system"
 ```
 and rebuild it.
 5. Run `yarn link` to register `adminjs` under yarn's linked packages (if you haven't done it before).

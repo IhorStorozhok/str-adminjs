@@ -1,4 +1,4 @@
-import { ThemeProvider } from '@adminjs/design-system/styled-components'
+import { ThemeProvider } from '@storozhok/adminjs-design-system/styled-components'
 import React, { Suspense } from 'react'
 import { I18nextProvider } from 'react-i18next'
 import { Provider } from 'react-redux'

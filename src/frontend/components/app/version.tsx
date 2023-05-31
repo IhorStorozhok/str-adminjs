@@ -1,6 +1,6 @@
 import React from 'react'
-import { cssClass, Text, Box } from '@adminjs/design-system'
-import { styled } from '@adminjs/design-system/styled-components'
+import { cssClass, Text, Box } from '@storozhok/adminjs-design-system'
+import { styled } from '@storozhok/adminjs-design-system/styled-components'
 
 import { VersionProps } from '../../../adminjs-options.interface.js'
 import { useTranslation } from '../../hooks/index.js'

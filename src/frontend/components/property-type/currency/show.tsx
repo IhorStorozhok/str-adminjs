@@ -1,4 +1,4 @@
-import { ValueGroup } from '@adminjs/design-system'
+import { ValueGroup } from '@storozhok/adminjs-design-system'
 import React, { FC } from 'react'
 
 import { EditPropertyProps } from '../base-property-props.js'

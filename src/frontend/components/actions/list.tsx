@@ -1,4 +1,4 @@
-import { Box, Pagination, Text } from '@adminjs/design-system'
+import { Box, Pagination, Text } from '@storozhok/adminjs-design-system'
 import React, { useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router'
 

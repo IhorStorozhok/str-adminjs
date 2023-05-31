@@ -1,4 +1,4 @@
-import { Label, LabelProps } from '@adminjs/design-system'
+import { Label, LabelProps } from '@storozhok/adminjs-design-system'
 import React from 'react'
 
 import { PropertyJSON } from '../../../../interfaces/index.js'

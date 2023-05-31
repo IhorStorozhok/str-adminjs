@@ -1,5 +1,5 @@
 import React, { FC } from 'react'
-import { Navigation } from '@adminjs/design-system'
+import { Navigation } from '@storozhok/adminjs-design-system'
 
 import { useTranslation } from '../../../hooks/use-translation.js'
 import { ResourceJSON } from '../../../interfaces/index.js'

@@ -1,5 +1,5 @@
 import React from 'react'
-import { FormGroup, Input, Select } from '@adminjs/design-system'
+import { FormGroup, Input, Select } from '@storozhok/adminjs-design-system'
 
 import allowOverride from '../../../hoc/allow-override.js'
 import { FilterPropertyProps } from '../base-property-props.js'

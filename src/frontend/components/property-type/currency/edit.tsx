@@ -1,4 +1,4 @@
-import { CurrencyInputProps, FormGroup, FormMessage } from '@adminjs/design-system'
+import { CurrencyInputProps, FormGroup, FormMessage } from '@storozhok/adminjs-design-system'
 import React, { FC, memo } from 'react'
 
 import { EditPropertyProps } from '../base-property-props.js'

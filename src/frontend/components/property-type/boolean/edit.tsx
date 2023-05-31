@@ -1,5 +1,5 @@
 import React, { memo } from 'react'
-import { CheckBox, FormGroup, FormMessage } from '@adminjs/design-system'
+import { CheckBox, FormGroup, FormMessage } from '@storozhok/adminjs-design-system'
 
 import { EditPropertyProps } from '../base-property-props.js'
 import { recordPropertyIsEqual } from '../record-property-is-equal.js'

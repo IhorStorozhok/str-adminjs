@@ -1,4 +1,4 @@
-import { formatDateProperty } from '@adminjs/design-system'
+import { formatDateProperty } from '@storozhok/adminjs-design-system'
 
 import { PropertyType } from '../../../../backend/adapters/property/base-property.js'
 

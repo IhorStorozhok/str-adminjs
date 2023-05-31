@@ -1,4 +1,4 @@
-import { ThemeOverride } from '@adminjs/design-system'
+import { ThemeOverride } from '@storozhok/adminjs-design-system'
 import type { TransformOptions as BabelConfig } from 'babel-core'
 
 import AdminJS from './adminjs.js'
@@ -157,7 +157,7 @@ export interface AdminJSOptions {
    * './node_modules/adminjs/lib/frontend/assets/scripts/global-bundle.production.js' to
    * './public/global.bundle.js'
    * * - copy
-   * './node_modules/adminjs/node_modules/@adminjs/design-system/bundle.production.js' to
+   * './node_modules/adminjs/node_modules/@storozhok/adminjs-design-system/bundle.production.js' to
    * './public/design-system.bundle.js'
    * - host entire public folder under some domain (if you use firebase - you can host them
    * with firebase hosting)

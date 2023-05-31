@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@adminjs/design-system@^4.0.0":
+"@storozhok/adminjs-design-system@^4.0.0":
   version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@adminjs/design-system/-/design-system-4.0.0.tgz#a1dbb1ec05b816b61d939698504bbb2af5228504"
+  resolved "https://registry.yarnpkg.com/@storozhok/adminjs-design-system/-/design-system-4.0.0.tgz#a1dbb1ec05b816b61d939698504bbb2af5228504"
   integrity sha512-+Y9C1KBWidBOK3MFlNdLn+yOZxOXIFOxafRBLzmYCKTx7A28rKnsxpAoOxo/p/1mloOduBfyoOFXXKXWUaU1vQ==
   dependencies:
     "@hypnosphi/create-react-context" "^0.3.1"

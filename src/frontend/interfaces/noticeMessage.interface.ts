@@ -1,4 +1,4 @@
-import { type MessageBoxProps } from '@adminjs/design-system'
+import { type MessageBoxProps } from '@storozhok/adminjs-design-system'
 import { type TOptions } from 'i18next'
 import { type ReactNode } from 'react'
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Badge } from '@adminjs/design-system'
+import { Badge } from '@storozhok/adminjs-design-system'
 
 import { ShowPropertyProps } from '../base-property-props.js'
 import { useTranslation } from '../../../hooks/index.js'

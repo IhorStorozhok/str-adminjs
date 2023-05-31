@@ -1,5 +1,5 @@
 import React from 'react'
-import { TableCaption, Title, ButtonGroup, Box } from '@adminjs/design-system'
+import { TableCaption, Title, ButtonGroup, Box } from '@storozhok/adminjs-design-system'
 import { useNavigate } from 'react-router'
 
 import { ActionJSON, buildActionClickHandler, RecordJSON, ResourceJSON } from '../../../interfaces/index.js'

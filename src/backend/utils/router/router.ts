@@ -19,7 +19,7 @@ const resolveDesignSystemBundle = (): string => {
   const require = createRequire(import.meta.url)
 
   return path.join(
-    path.parse(require.resolve('@adminjs/design-system')).dir,
+    path.parse(require.resolve('@storozhok/adminjs-design-system')).dir,
     `../bundle.${env}.js`,
   )
 }

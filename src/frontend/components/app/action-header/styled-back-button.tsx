@@ -4,8 +4,8 @@ import {
   ButtonCSS,
   ButtonProps,
   Icon,
-} from '@adminjs/design-system'
-import { styled } from '@adminjs/design-system/styled-components'
+} from '@storozhok/adminjs-design-system'
+import { styled } from '@storozhok/adminjs-design-system/styled-components'
 import { useSelector } from 'react-redux'
 
 import allowOverride from '../../../hoc/allow-override.js'

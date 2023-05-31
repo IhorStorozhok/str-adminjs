@@ -1,5 +1,5 @@
 import React from 'react'
-import { ValueGroup } from '@adminjs/design-system'
+import { ValueGroup } from '@storozhok/adminjs-design-system'
 
 import allowOverride from '../../../hoc/allow-override.js'
 import mapValue from './map-value.js'

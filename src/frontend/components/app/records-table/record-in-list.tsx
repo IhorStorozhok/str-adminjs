@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react'
 import { useNavigate } from 'react-router'
 import {
   Placeholder, TableRow, TableCell, CheckBox, ButtonGroup,
-} from '@adminjs/design-system'
+} from '@storozhok/adminjs-design-system'
 
 import BasePropertyComponent from '../../property-type/index.js'
 import { ActionJSON, buildActionClickHandler, RecordJSON, ResourceJSON } from '../../../interfaces/index.js'

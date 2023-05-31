@@ -1,4 +1,4 @@
-import { Box, Text, ValueGroup } from '@adminjs/design-system'
+import { Box, Text, ValueGroup } from '@storozhok/adminjs-design-system'
 import React, { FC } from 'react'
 import xss from 'xss'
 

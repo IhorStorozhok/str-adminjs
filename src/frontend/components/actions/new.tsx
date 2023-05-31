@@ -1,4 +1,4 @@
-import { Box, Button, DrawerContent, DrawerFooter, Icon } from '@adminjs/design-system'
+import { Box, Button, DrawerContent, DrawerFooter, Icon } from '@storozhok/adminjs-design-system'
 import React, { FC, useEffect } from 'react'
 import { useNavigate } from 'react-router'
 

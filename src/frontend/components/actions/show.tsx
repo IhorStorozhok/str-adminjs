@@ -1,4 +1,4 @@
-import { DrawerContent } from '@adminjs/design-system'
+import { DrawerContent } from '@storozhok/adminjs-design-system'
 import React from 'react'
 
 import allowOverride from '../../hoc/allow-override.js'

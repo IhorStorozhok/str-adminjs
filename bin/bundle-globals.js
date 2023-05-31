@@ -52,7 +52,7 @@ const run = async () => {
       axios: 'axios',
       punycode: 'punycode',
       uuid: 'uuid',
-      '@adminjs/design-system/styled-components': 'styled',
+      '@storozhok/adminjs-design-system/styled-components': 'styled',
       'react-dom': 'ReactDOM',
       'prop-types': 'PropTypes',
       'react-redux': 'ReactRedux',
